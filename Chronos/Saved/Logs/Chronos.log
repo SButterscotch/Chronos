@@ -2297,3 +2297,151 @@ Sampler Limit: 32
 [2025.10.15-20.58.35:075][367]AssetCheck: /Game/MYSTUFF/Materials/GrassStandee_Mat Validating asset
 [2025.10.15-20.58.35:075][367]AssetCheck: /Game/MYSTUFF/StaticMeshes/M_GrassModel_GrassStandee_Mat_259D49B042277C945631DCBE24490E85 Validating asset
 [2025.10.15-20.58.35:092][367]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/abbo7580/UE56Projects/Project/Chronos/Chronos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-21.01.42:168][532]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.10.15-21.01.46:438][929]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2025.10.15-21.01.46:438][929]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.10.15-21.01.47:046][932]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.10.15-21.01.56:309][695]LogStreaming: Display: FlushAsyncLoading(615): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-21.02.51:128][175]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1314.286255
+[2025.10.15-21.02.51:257][186]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-21.02.51:257][186]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1314.404297, Update Interval: 324.679718
+[2025.10.15-21.03.23:268][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.15-21.03.24:642][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-21.03.24:695][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.10.15-21.03.24:705][884]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.10.15-21.03.24:705][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.10.15-21.03.24:717][884]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.10.15-21.03.24:717][884]LogSavePackage: Moving '../../../../../../Users/abbo7580/UE56Projects/Project/Chronos/Chronos/Saved/BP_TopDownCharacter1973483D48D679171C64C38955416977.tmp' to '../../../../../../Users/abbo7580/UE56Projects/Project/Chronos/Chronos/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.10.15-21.03.24:724][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.425 ms (total: 848.330 ms)
+[2025.10.15-21.03.24:759][884]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-21.03.24:759][884]LogContentValidation: Enabled validators:
+[2025.10.15-21.03.24:759][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-21.03.24:759][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-21.03.24:759][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-21.03.24:759][884]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-21.03.24:759][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-21.03.24:759][884]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-21.03.24:759][884]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.10.15-21.03.24:780][884]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/abbo7580/UE56Projects/Project/Chronos/Chronos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-21.03.27:670][140]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.15-21.03.27:676][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.15-21.03.27:677][140]LogPlayLevel: Creating play world package: /Game/MYSTUFF/UEDPIE_0_TestingRepo
+[2025.10.15-21.03.27:678][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001978s)
+[2025.10.15-21.03.27:678][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MYSTUFF/TestingRepo.TestingRepo to /Game/MYSTUFF/UEDPIE_0_TestingRepo.TestingRepo (0.002016s)
+[2025.10.15-21.03.27:701][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.10.15-21.03.27:703][140]LogChaosDD: Creating Chaos Debug Draw Scene for world TestingRepo
+[2025.10.15-21.03.27:704][140]LogPlayLevel: PIE: World Init took: (0.001732s)
+[2025.10.15-21.03.27:705][140]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.10.15-21.03.27:705][140]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.15-21.03.27:705][140]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.15-21.03.27:705][140]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.15-21.03.27:705][140]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.15-21.03.27:705][140]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.15-21.03.27:705][140]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.15-21.03.27:705][140]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.15-21.03.27:705][140]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.15-21.03.27:705][140]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.15-21.03.27:705][140]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.15-21.03.27:705][140]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.15-21.03.27:707][140]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.15-21.03.27:732][140]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.15-21.03.27:732][140]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.15-21.03.27:732][140]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.15-21.03.27:732][140]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.15-21.03.27:733][140]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.10.15-21.03.27:733][140]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.10.15-21.03.27:735][140]LogInit: FAudioDevice initialized with ID 3.
+[2025.10.15-21.03.27:735][140]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.10.15-21.03.27:735][140]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.10.15-21.03.27:735][140]LogAudio: Display: Audio Device (ID: 3) registered with world 'TestingRepo'.
+[2025.10.15-21.03.27:735][140]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.15-21.03.27:738][140]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.10.15-21.03.27:740][140]LogWorld: Bringing World /Game/MYSTUFF/UEDPIE_0_TestingRepo.TestingRepo up for play (max tick rate 0) at 2025.10.15-14.03.27
+[2025.10.15-21.03.27:740][140]LogWorld: Bringing up level for play took: 0.001044
+[2025.10.15-21.03.27:742][140]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.10.15-21.03.27:747][140]PIE: Server logged in
+[2025.10.15-21.03.27:749][140]PIE: Play in editor total start time 0.072 seconds.
+[2025.10.15-21.03.27:796][141]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.15-21.05.15:968][251]LogNiagara: Compiling System NiagaraSystem /Game/TopDown/Cursor/FX_Cursor_Success.FX_Cursor_Success took 0.030699 sec (time since issued).
+[2025.10.15-21.05.25:801][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-21.05.25:801][188]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.10.15-21.05.25:838][188]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.10.15-21.05.25:840][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.10.15-21.05.25:851][188]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.10.15-21.05.25:851][188]LogSavePackage: Moving '../../../../../../Users/abbo7580/UE56Projects/Project/Chronos/Chronos/Saved/BP_TopDownCharacter366AD0434C0878AC6AC9F9AC261646EF.tmp' to '../../../../../../Users/abbo7580/UE56Projects/Project/Chronos/Chronos/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.10.15-21.05.25:852][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.081 ms (total: 899.411 ms)
+[2025.10.15-21.05.25:855][188]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-21.05.25:855][188]LogContentValidation: Enabled validators:
+[2025.10.15-21.05.25:855][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-21.05.25:855][188]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-21.05.25:855][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-21.05.25:855][188]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-21.05.25:855][188]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-21.05.25:855][188]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-21.05.25:855][188]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.10.15-21.05.27:385][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.10.15-21.05.29:852][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-21.05.29:852][533]LogWorld: BeginTearingDown for /Game/MYSTUFF/UEDPIE_0_TestingRepo
+[2025.10.15-21.05.29:852][533]LogWorld: UWorld::CleanupWorld for TestingRepo, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-21.05.29:852][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-21.05.29:853][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.15-21.05.29:857][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-21.05.29:881][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-21.05.29:881][533]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.15-21.05.29:881][533]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.10.15-21.05.29:884][533]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.10.15-21.05.29:892][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.15-21.05.29:921][534]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.10.15-21.08.32:335][565]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1655.497925
+[2025.10.15-21.08.32:455][574]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-21.08.32:455][574]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1655.604126, Update Interval: 308.968781
+[2025.10.15-21.10.33:688][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.15-21.10.33:702][665]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MYSTUFF/TestingRepo_Auto1
+[2025.10.15-21.10.33:702][665]LogSavePackage: Moving '../../../../../../Users/abbo7580/UE56Projects/Project/Chronos/Chronos/Saved/TestingRepo_Auto1AE74205E4E634F3C2F02849B848967CA.tmp' to '../../../../../../Users/abbo7580/UE56Projects/Project/Chronos/Chronos/Saved/Autosaves/Game/MYSTUFF/TestingRepo_Auto1.umap'
+[2025.10.15-21.10.33:703][665]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MYSTUFF/TestingRepo' took 0.041
+[2025.10.15-21.10.33:703][665]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2025.10.15-21.11.14:235][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-21.11.14:334][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.10.15-21.11.14:345][913]LogSavePackage: Moving output files for package: /Game/MYSTUFF/TestingRepo
+[2025.10.15-21.11.14:346][913]LogSavePackage: Moving '../../../../../../Users/abbo7580/UE56Projects/Project/Chronos/Chronos/Saved/TestingRepo741F3B1A4505EA736AC3DA8E03F0DCC2.tmp' to '../../../../../../Users/abbo7580/UE56Projects/Project/Chronos/Chronos/Content/MYSTUFF/TestingRepo.umap'
+[2025.10.15-21.11.14:356][913]LogFileHelpers: Saving map 'TestingRepo' took 0.061
+[2025.10.15-21.11.14:368][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.670 ms (total: 1.03 sec)
+[2025.10.15-21.11.14:427][913]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-21.11.14:427][913]LogContentValidation: Enabled validators:
+[2025.10.15-21.11.14:427][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-21.11.14:427][913]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-21.11.14:427][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-21.11.14:427][913]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-21.11.14:427][913]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-21.11.14:427][913]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-21.11.14:427][913]AssetCheck: /Game/MYSTUFF/TestingRepo Validating asset
+[2025.10.15-21.11.20:832][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.15-21.11.35:642][250]Cmd: EDIT COPY
+[2025.10.15-21.11.35:980][275]Cmd: EDIT PASTE
+[2025.10.15-21.11.42:017][729]Cmd: EDIT PASTE
+[2025.10.15-21.12.36:292][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-21.12.36:382][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.15-21.12.36:394][122]LogSavePackage: Moving output files for package: /Game/MYSTUFF/TestingRepo
+[2025.10.15-21.12.36:394][122]LogSavePackage: Moving '../../../../../../Users/abbo7580/UE56Projects/Project/Chronos/Chronos/Saved/TestingRepo6FCBFED14309E563EBDB209ABDFCCEB2.tmp' to '../../../../../../Users/abbo7580/UE56Projects/Project/Chronos/Chronos/Content/MYSTUFF/TestingRepo.umap'
+[2025.10.15-21.12.36:404][122]LogFileHelpers: Saving map 'TestingRepo' took 0.060
+[2025.10.15-21.12.36:410][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.838 ms (total: 1.14 sec)
+[2025.10.15-21.12.36:460][122]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-21.12.36:460][122]LogContentValidation: Enabled validators:
+[2025.10.15-21.12.36:460][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-21.12.36:460][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-21.12.36:460][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-21.12.36:460][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-21.12.36:460][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-21.12.36:461][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-21.12.36:461][122]AssetCheck: /Game/MYSTUFF/TestingRepo Validating asset
+[2025.10.15-21.13.20:150][893]LogSlate: Window 'BP_TopDownCharacter' being destroyed
+[2025.10.15-21.13.20:155][893]LogSlate: Window 'BP_TopDownCharacter' being destroyed
+[2025.10.15-21.13.20:159][893]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-21.13.20:159][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-21.13.20:219][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.15-21.14.34:573][319]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2017.738281
+[2025.10.15-21.14.34:691][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-21.14.34:691][333]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2017.847290, Update Interval: 311.048920
+[2025.10.15-21.19.05:971][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
