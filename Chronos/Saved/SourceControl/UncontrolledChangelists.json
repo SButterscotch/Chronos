@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Chronos/Chronos/Content/pcg/NewMap.umap",
+				"D:/Chronos/Chronos/Content/pcg/Level/NewMap.umap",
+				"D:/Chronos/Chronos/Content/pcg/PCGforest.uasset",
 				"C:/Users/kark5714/Documents/GitHub/Chronos/Chronos/Content/Models/Stage/Material.uasset",
 				"C:/Users/kark5714/Documents/GitHub/Chronos/Chronos/Content/Models/Stage/Plane.uasset",
 				"C:/Users/kark5714/Documents/GitHub/Chronos/Chronos/Content/Models/Stage/Plane_001.uasset",
